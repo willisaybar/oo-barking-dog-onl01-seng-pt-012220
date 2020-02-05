@@ -5,11 +5,13 @@ def  name=(dog_name)
 end
 
   def name
-    this_dogs_name
+    @name
   end
-  
-  def bark
     
-  
 end
 
+class Dog 
+  def bark
+    puts "woof!"
+  end
+end
