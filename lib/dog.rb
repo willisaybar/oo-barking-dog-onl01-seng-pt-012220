@@ -1,4 +1,6 @@
 # Your code goes here!
-def Dog 
+class Dog 
+def  
   
 end
+
